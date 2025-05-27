@@ -1,0 +1,9 @@
+32095,<admin>
+32096,<chem>
+32097,<biotech>
+32098,<agri>
+32099,<broadcast>
+32100,<civil>
+32101,<comp>
+32102,<geo>
+32103,<psycho>
