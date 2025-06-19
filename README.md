@@ -1,5 +1,7 @@
-<h1>LexGen: Domain-aware Multilingual Lexicon Generation</h1>
-
+## LexGen: Domain-aware Multilingual Lexicon Generation</h1>
+> [LexGen: Domain-aware Multilingual Lexicon Generation](https://arxiv.org/abs/2405.11200)  
+> Ayush Maheshwari*, Atul Kumar Singh*, Karthika NJ, Krishnakant Bhatt, Preethi Jyothi, Ganesh Ramakrishnan      
+> Association for Computational Linguistics (__ACL Main__) 2025
 <p>
 LexGen is a domain-aware lexicon generation framework that builds specialized multilingual dictionaries from English to six Indic languages — Hindi, Kannada, Gujarati, Marathi, Odia, and Tamil — across multiple technical and non-technical domains. It introduces a novel <strong>Domain Routing (DR)</strong> layer in a Transformer-based architecture to selectively route information through domain-specific or shared pathways, enabling both in-domain learning and generalization to unseen domains or languages.
 </p>
@@ -60,6 +62,17 @@ unzip en2indic.zip
 
 <h2>📄 Citation</h2>
 <p>If you use LexGen or its dataset in your research, please cite the corresponding ACL submission.</p>
+
+
+```bibtex
+@inproceedings{maheshwari-etal-2025-lexgen,
+    title = "LexGen: Domain-aware Multilingual Lexicon Generation",
+    author = "Maheshwari, Ayush and Singh, Atul Kumar and NJ, Karthika and Bhatt, Krishnakant and Jyothi, Preethi and Ramakrishnan, Ganesh",
+    booktitle = "Proceedings of the 63rd Conference of the Association for Computational Linguistics: Main Volume",
+    year = "2025",
+    publisher = "Association for Computational Linguistics",
+}
+```
 
 <h2>📜 License</h2>
 <p>This project is for academic research and benchmarking purposes only.</p>
